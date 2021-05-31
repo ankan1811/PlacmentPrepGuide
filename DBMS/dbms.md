@@ -1,5 +1,9 @@
 # DBMS
 * important link:https://www.interviewbit.com/sql-interview-questions/
+* https://www.geeksforgeeks.org/sql-interview-questions/
+* https://www.guru99.com/sql-interview-questions-answers.html
+* https://artoftesting.com/sql-queries-for-interview
+* https://www.techbeamers.com/sql-query-questions-answers-for-practice/
 ## Subquery
 ### Non correlated subquery
 * In non correlated subquery, inner query doesn't depend on outer query and can run as stand alone query.Subquery used along-with IN or NOT IN sql clause is good examples of Noncorrelated subquery in SQL.
